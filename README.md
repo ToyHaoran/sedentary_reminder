@@ -18,8 +18,7 @@
 
 ## 使用
 
-1. 安装 AutoHotkey v2。
-2. 双击 `WorkTimer.ahk` 运行。
+1. 安装 AutoHotkey v2，双击 `WorkTimer.ahk` 运行。或直接运行xxx.exe文件。
 3. 如需开机自动运行：按 `Win + R`，输入 `shell:startup`，将 `WorkTimer.ahk` 的快捷方式放入打开的文件夹。
 
 若通知未显示，请在 Windows「设置 → 系统 → 通知」中允许 AutoHotkey 的通知。
